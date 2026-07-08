@@ -12,7 +12,6 @@ I enjoy building projects that solve real-world problems, learning new technolog
 - **Machine Learning**: Working with Scikit-learn, Pandas, NumPy, TF-IDF, Logistic Regression, and data processing pipelines.
 - **Always Learning**: Currently exploring local LLMs, DevOps, system design, and DSA.
 
----
 
 Tech I Work With
 
