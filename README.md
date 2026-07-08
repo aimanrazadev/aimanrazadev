@@ -13,7 +13,7 @@ I enjoy building projects that solve real-world problems, learning new technolog
 - **Always Learning**: Currently exploring local LLMs, DevOps, system design, and DSA.
 
 
-Tech I Work With
+## Tech I Work With
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -47,7 +47,7 @@ Tech I Work With
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
 
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aimanrazadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=aimanrazadev&theme=dark&hide_border=false)<br/>
