@@ -47,8 +47,9 @@ I enjoy building projects that solve real-world problems, learning new technolog
 
 ## GitHub Stats
 
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimanrazadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimanrazadev&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aimanrazadev&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanrazadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanrazadev&layout=compact&theme=tokyonight)
+username=aimanrazadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
