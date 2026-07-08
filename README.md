@@ -45,12 +45,18 @@ I enjoy building projects that solve real-world problems, learning new technolog
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Stats:
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aimanrazadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="420" />
 
-![](https://github-readme-stats.vercel.app/api?username=aimanrazadev&show_icons=true&theme=tokyonight)
+<br><br>
 
-![](https://streak-stats.demolab.com?user=aimanrazadev&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=aimanrazadev&theme=dark&hide_border=false" width="460" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanrazadev&layout=compact&theme=tokyonight)
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanrazadev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="320" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=aimanrazadev&color=blue" />
