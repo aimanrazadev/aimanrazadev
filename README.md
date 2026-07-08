@@ -1,17 +1,20 @@
 # Hello, Aiman here!
 
-I'm a **Software Engineering student at Delhi Technological University (DTU)**, interested in **AI, full-stack development, backend systems, and system design**.  
+I'm a **Software Engineering student at Delhi Technological University (DTU)**, interested in AI, full-stack development, backend systems, and system design.  
 I enjoy building projects that solve real-world problems, learning new technologies, and improving as an engineer one project at a time.
+
 
 🔭 What I'm Working On
 
-- **AI Engineering**: Building AI-powered applications using **LLMs, embeddings, semantic search, OCR, prompt engineering, and machine learning.
+- **AI Engineering**: Building AI-powered applications using LLMs, embeddings, semantic search, OCR, prompt engineering, and machine learning.
 - **Full-Stack Development**: Creating end-to-end web apps using React, FastAPI, MySQL, REST APIs, authentication, and deployment tools.
 - **Backend & System Design**: Learning API design, database optimization, caching, async processing, authentication, scalability, and clean architecture.
 - **Machine Learning**: Working with Scikit-learn, Pandas, NumPy, TF-IDF, Logistic Regression, and data processing pipelines.
 - **Always Learning**: Currently exploring local LLMs, DevOps, system design, and DSA.
 
-## 💻 Tech I Work With
+---
+
+Tech I Work With
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
