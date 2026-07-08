@@ -1,4 +1,4 @@
-# Hey, I'm Aiman
+# Hello, Aiman here!
 
 I'm a **Software Engineering student at Delhi Technological University (DTU)**, interested in **AI, full-stack development, backend systems, and system design**.  
 I enjoy building projects that solve real-world problems, learning new technologies, and improving as an engineer one project at a time.
