@@ -6,10 +6,10 @@ I enjoy building projects that solve real-world problems, learning new technolog
 
 🔭 What I'm Working On
 
-- **AI Engineering**: Building AI-powered applications using LLMs, embeddings, semantic search, OCR, prompt engineering, and machine learning.
+- **AI Engineering**: Building AI-powered applications using LLMs, embeddings, semantic search, prompt engineering, and machine learning.
 - **Full-Stack Development**: Creating end-to-end web apps using React, FastAPI, MySQL, REST APIs, authentication, and deployment tools.
-- **Backend & System Design**: Learning API design, database optimization, caching, async processing, authentication, scalability, and clean architecture.
-- **Machine Learning**: Working with Scikit-learn, Pandas, NumPy, TF-IDF, Logistic Regression, and data processing pipelines.
+- **Backend & System Design**: Exploring and Learning API design, database optimization, caching, async processing, authentication, scalability, and clean architecture.
+- **Machine Learning**: Working with Scikit-learn, NumPy and data processing pipelines.
 - **Always Learning**: Currently exploring local LLMs, DevOps, system design, and DSA.
 
 
